@@ -3,5 +3,4 @@
 
      💼 3 years commercial experience | Computer Science graduate @ South Federal University  
      🌍 Based in Moscow, Russia  
-     🚀 Currently building: Telegram Auth Service
      🎧 Podcast lover (tech/cybersecurity) | 🚴 Cycling enthusiast  
